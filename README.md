@@ -1,4 +1,4 @@
-# HotailWind 🚴‍♀️​
+# HotailWind​
 
 O projeto Bikcraft foi desenvolvido por completo, iniciado a codificação do HTML, a estilização em TailwindCSS.
 
@@ -34,12 +34,12 @@ Clique em [HotailWind](https://hotailwind.vercel.app/)🔗 para acessar.
 
 <h3 id="instalacao">🛠️ Instalação</h3>
 
-Não há necessidade de instalação, clique em [Bikcraft](https://hotailwind.vercel.app/)🔗 para acessar.
+Não há necessidade de instalação, clique em [Hotailwind](https://hotailwind.vercel.app/)🔗 para acessar.
 
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
 
 <div style="display: inline_block">
-  <img align="center" alt="boradev-Js" height="30" width="40" src="../hotailwind/img/tailwind-svgrepo-com.svg">
+  <img align="center" alt="boradev-Js" height="30" width="40" src="https://www.pngwing.com/en/free-png-aygwc">
   <img align="center" alt="boradev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 </div>
