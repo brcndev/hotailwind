@@ -39,7 +39,7 @@ Não há necessidade de instalação, clique em [Hotailwind](https://hotailwind.
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
 
 <div style="display: inline_block">
-  <img align="center" alt="boradev-Js" height="30" width="40" src="https://www.pngwing.com/en/free-png-aygwc">
+  <img align="center" alt="boradev-Js" height="30" width="40" src="https://icons8.com/icon/UpSCHTwpywad/tailwind-css">
   <img align="center" alt="boradev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 </div>
@@ -55,7 +55,7 @@ Concluído. ​​👨‍💻​
 
 <h3 id="autor">✒️ Autor</h3>
 
-<a href="https://github.com/brcndev"> <img style="border-radius: 50%;" src="../hotailwind/img/AvatarMaker.png width="100px;" alt="Personal photo"/> </a>
+<a href="https://github.com/brcndev"></a>
 
 [Clique aqui](https://brcndev.vercel.app/)🔗 e acesse meu portfólio! 💼 <br>
 Desenvolvido com ❤️ por **Guilherme Boracini**
