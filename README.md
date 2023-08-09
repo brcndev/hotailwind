@@ -1,6 +1,6 @@
 # HotailWind​
 
-O projeto Bikcraft foi desenvolvido por completo, iniciado a codificação do HTML, a estilização em TailwindCSS.
+O projeto HotailWind foi desenvolvido por completo, iniciado a codificação do HTML, a estilização em TailwindCSS.
 
 ### 🎯 Menu
 
@@ -39,7 +39,7 @@ Não há necessidade de instalação, clique em [Hotailwind](https://hotailwind.
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
 
 <div style="display: inline_block">
- <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+ <img align="center" width="30" height="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img align="center" alt="boradev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 </div>
